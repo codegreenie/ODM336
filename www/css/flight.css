@@ -1,0 +1,38 @@
+@font-face {
+        font-family: "Montserrat Light";
+        src: url("../fonts/Montserrat-Light.ttf");
+    }
+
+*{
+    font-family: "Montserrat Light";
+}
+.text-center{
+	text-align: center;
+}
+.text-white{
+	color: #fff !important;
+}
+.text-brown{
+	color: #999 !important;
+}
+.text-green{
+	color: #62cc9f !important;
+}
+.bg-white{
+	background: #fff;
+}
+.sweet-bg{
+	background: -webkit-linear-gradient(0deg, #efa442 0%, #fce353 100%);
+}
+.bg-dark{
+	background-color: #1f262c !important;
+}
+.text-right{
+	text-align: right;
+}
+.nylon, .nylons{
+    display: none;
+}
+.cabin-class-style{
+	 border : solid 2px #fff !important;
+}
